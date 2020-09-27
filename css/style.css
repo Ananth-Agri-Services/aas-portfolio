@@ -1302,3 +1302,35 @@ h1, h2, h3, h4, h5,
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
+
+
+
+@media (min-device-width: 1024px) and (max-device-width: 1166px) {
+  iframe{
+    width: 590px;
+    height: 1050px;
+  }
+
+}
+
+@media (max-width: 900px) and (min-width:601px) {
+  iframe{
+    width: 690px;
+    height: 1050px;
+  }
+
+}
+
+@media (max-width: 600px) {
+  iframe{
+    width: 350px;
+    height: 1050px;
+  }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  iframe{
+    width: 290px;
+    height: 1050px;
+  }
+}
