@@ -30035,3 +30035,8 @@ a.u-link.u-text-hover-grey-90:hover {
     height: 1050px;
   }
 }
+@media only screen and (max-width: 768px) {
+	img{
+	width: 100%;
+	}
+}
