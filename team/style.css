@@ -30042,3 +30042,12 @@ a.u-link.u-text-hover-grey-90:hover {
 	width: 100%;
 	}
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px){
+	p{
+	width: 290px;
+	}
+	h2{
+	width: 290px;
+	}
+}
