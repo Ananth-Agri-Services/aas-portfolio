@@ -103,8 +103,7 @@
 
 .font-gray-10 {
   color: #353535; }
-body{
-  overflow-x:hidden !important;}
+
 
 .border-gray-1 {
   border-color: #f7f7f7; }
@@ -227,7 +226,8 @@ body {
   line-height: 1.7;
   font-weight: 400;
   font-size: 1rem;
-  background: #222; }
+  background: #222; 
+  overflow-x:hidden;}
   body:before {
     position: absolute;
     content: "";
