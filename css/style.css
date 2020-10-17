@@ -103,6 +103,8 @@
 
 .font-gray-10 {
   color: #353535; }
+body{
+  overflow-x:hidden;}
 
 .border-gray-1 {
   border-color: #f7f7f7; }
