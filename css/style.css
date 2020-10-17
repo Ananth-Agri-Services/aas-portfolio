@@ -227,7 +227,7 @@ body {
   font-weight: 400;
   font-size: 1rem;
   background: #222; 
-  overflow-x:hidden;}
+  overflow-x: hidden !important;}
   body:before {
     position: absolute;
     content: "";
